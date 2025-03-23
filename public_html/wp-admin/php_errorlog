@@ -1,0 +1,118 @@
+[17-Mar-2025 00:26:42 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:26:42 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:26:42 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:27:27 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:27:27 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:27:27 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:27:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[17-Mar-2025 00:27:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[17-Mar-2025 00:28:25 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:28:25 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:28:25 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[17-Mar-2025 00:28:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[17-Mar-2025 00:28:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[17-Mar-2025 00:28:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[17-Mar-2025 01:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:12:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:14:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:23:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:24:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:25:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[17-Mar-2025 02:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
+[23-Mar-2025 19:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php:349
+Stack trace:
+#0 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/customer/www/articocr.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/customer/www/articocr.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/articocr.com/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/customer/www/articocr.com/public_html/wp-content/plugins/elementor/modules/ai/module.php on line 349
